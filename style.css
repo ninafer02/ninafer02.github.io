@@ -1,0 +1,29 @@
+.ini{
+    background: #00ffd9;
+    background: linear-gradient(90deg, rgba(0, 255, 217, 1) 0%, rgba(0, 33, 250, 1) 50%, rgba(255, 0, 94, 1) 100%);
+}
+.som{
+    background: #00ffd9;
+background: linear-gradient(90deg, rgba(0, 255, 217, 1) 0%, rgba(0, 33, 250, 1) 50%, rgba(255, 0, 94, 1) 100%);
+}
+.pro{
+    background: #00ffd9;
+background: linear-gradient(90deg, rgba(0, 255, 217, 1) 0%, rgba(0, 33, 250, 1) 50%, rgba(255, 0, 94, 1) 100%);
+}
+.menu{
+    background: #00ffd9;
+background: linear-gradient(90deg, rgba(0, 255, 217, 1) 0%, rgba(0, 33, 250, 1) 50%, rgba(255, 0, 94, 1) 100%);
+text-align: center;
+color: black;
+}
+.fondo{
+    background-image: url(atardecer-en-las-montanas-nevadas-7588.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    height: 1000px;
+
+}
+#laberinto{
+
+}
+   
