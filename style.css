@@ -7,6 +7,7 @@
 background: linear-gradient(90deg, rgba(0, 255, 217, 1) 0%, rgba(0, 33, 250, 1) 50%, rgba(255, 0, 94, 1) 100%);
 }
 .pro{
+
     background: #00ffd9;
 background: linear-gradient(90deg, rgba(0, 255, 217, 1) 0%, rgba(0, 33, 250, 1) 50%, rgba(255, 0, 94, 1) 100%);
 }
@@ -23,7 +24,17 @@ color: black;
     height: 1000px;
 
 }
-#laberinto{
 
+body{
+    color: rgb(0, 0, 0);
+    
 }
+#contactForm{
+    color: white;
+}
+ 
+
+
+
+
    
