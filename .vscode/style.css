@@ -21,7 +21,7 @@ color: black;
     background-image: url(atardecer-en-las-montanas-nevadas-7588.jpg);
     background-repeat: repeat;
     background-position: center;
-    height: 1000px;
+    height: 1200px;
 
 }
 
@@ -33,7 +33,9 @@ body{
     color: white;
 }
  
-
+.link{
+    color: black;
+}
 
 
 
